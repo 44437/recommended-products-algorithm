@@ -1,0 +1,5 @@
+node_modules
+.idea
+images
+/clustered_images.json
+/kmeans_model.pkl
